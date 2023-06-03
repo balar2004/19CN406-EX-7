@@ -17,6 +17,6 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 # OUTPUT:
-
+![Output 4 2](https://github.com/balar2004/19CN406-EX-7/assets/118791778/0a2d6b2a-fb02-4d08-983b-cff304e2be4f)
 # RESULT:
 Thus, the python program for simulating Traceroute command was successfully executed.
